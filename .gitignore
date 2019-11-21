@@ -1,0 +1,6 @@
+# ignore .ipynb_checkpoints folder
+venv
+__pycache__
+target
+.coverage
+pyubuntu.tar
